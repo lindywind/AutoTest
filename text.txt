@@ -1,3 +1,4 @@
 t
 这是要解决的冲突后文档
 verision1
+version2
